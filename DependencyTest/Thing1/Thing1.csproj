@@ -76,9 +76,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Core1\Core1.csproj">
+    <ProjectReference Include="..\Core1\CoreOne.csproj">
       <Project>{74EB64CF-47A1-42E1-B223-A8AEC7FAEC95}</Project>
-      <Name>Core1</Name>
+      <Name>CoreOne</Name>
     </ProjectReference>
     <ProjectReference Include="..\Core2\Core2.csproj">
       <Project>{CDE79731-4505-47B1-976E-607E6BB9D1DD}</Project>
