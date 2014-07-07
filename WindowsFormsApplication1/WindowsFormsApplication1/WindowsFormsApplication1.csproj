@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Core1">
-      <HintPath>..\packages\Core1.0.3\lib\net451\Core1.dll</HintPath>
+      <HintPath>..\packages\Core1.0.6\lib\net451\Core1.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
