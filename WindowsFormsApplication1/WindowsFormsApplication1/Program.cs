@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NUnit.Framework;
 
 namespace WindowsFormsApplication1
 {
@@ -22,4 +23,8 @@ namespace WindowsFormsApplication1
             new Class1();
         }
     }
+
+
+    [TestFixture]
+    public class s { }
 }
