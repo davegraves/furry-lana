@@ -35,8 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Core1">
-      <HintPath>..\packages\Core1.0.6\lib\net451\Core1.dll</HintPath>
+    <Reference Include="CoreOne, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\CoreOne.0.1.0\lib\net451\CoreOne.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
